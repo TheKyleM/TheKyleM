@@ -22,7 +22,9 @@
 
 ## About Me
 I am a Front End Web Developer currently enrolled in the HyperionDev bootcamp 🖥️
+
 A UX/UI Designer enthusiast studying in the Google UX UI Design Course ✏️
+
 An Architeture Graduate from University Of Sheffield  🏘️
 
 Currently residing in the United Kingdom! 
