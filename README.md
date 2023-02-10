@@ -1,9 +1,3 @@
-<div align="center"><h1> Kyle Marcos </h1> </div>
-
-#### Front End Web Developer
-#### UX/UI Designer
-#### Architeture Graduate
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -16,8 +10,21 @@
    <img src="https://komarev.com/ghpvc/?username=TheKyleM&style=flat-square&color=blue" alt=""/>
   </div>
 
+<h1 align="center">
+  Welcome!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="240"/>
+</div>
+
+
+## About Me
+#### Front End Web Developer  🖥️
+#### UX/UI Designer  ✏️
+#### Architeture Graduate  🏘️
+
 
 <!--
 **TheKyleM/TheKyleM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
