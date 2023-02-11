@@ -25,10 +25,13 @@ I am a Front End Web Developer currently enrolled in the HyperionDev bootcamp �
 
 A UX/UI Designer enthusiast studying in the Google UX UI Design Course ✏️
 
-An Architeture Graduate from University Of Sheffield  🏘️
+An Architecture Graduate from University Of Sheffield  🏘️
 
 Currently residing in the United Kingdom! 
 
+*Currently looking for a job within front end web development OR UX/UI Design*
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -57,10 +60,14 @@ Currently residing in the United Kingdom!
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/aftereffects/aftereffects-original.svg" title="AE" alt="After Effects" width="40" height="40"/>&nbsp;
   
-  
-  
-
 </div>
+
+---
+
+### 🌐 My most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKyleM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **TheKyleM/TheKyleM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
